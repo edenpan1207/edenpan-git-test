@@ -66,16 +66,20 @@ img {
   width: 33%;
   height: 300px;
   background: yellow;
+  float: left;
 }
 
 .content {
   width: 33%;
   height: 300px;
   background: red;
+  float: left;
+
 }
 
 .footer {
   width: 33%;
   height: 100px;
   background: black;
+  float: left;
 }
